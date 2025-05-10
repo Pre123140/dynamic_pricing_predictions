@@ -37,6 +37,7 @@ dynamic_pricing_model/
 │   ├── train.csv
 │   └── test.csv
 ├── dynamic_pricing.py
+├── dynamic_pricing2.py
 ├── enhancements.py
 ├── dynamic_pricing_model.pkl
 ├── label_encoders.pkl
@@ -87,7 +88,7 @@ streamlit run enhancements.py
 ---
 
 ## Conceptual Study
-For a detailed explanation of model architecture, encoding strategy, business logic, and accuracy optimization, refer to the [Conceptual Study PDF](https://github.com/Pre123140/DYNAMIC_PRICING_MODEL/blob/main/Conceptual_Study_Dynamic_Pricing.pdf).
+For a detailed explanation of model architecture, encoding strategy, business logic, and accuracy optimization, refer to the [Conceptual Study PDF](https://github.com/Pre123140/dynamic_pricing_predictions/blob/main/DYNAMIC_PRICING_MODEL.pdf).
 
 ---
 
