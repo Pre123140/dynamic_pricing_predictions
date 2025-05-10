@@ -51,7 +51,7 @@ dynamic_pricing_model/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/dynamic_pricing_model.git
+git clone https://github.com/Pre123140/dynamic_pricing_predictions
 cd dynamic_pricing_model
 ```
 
